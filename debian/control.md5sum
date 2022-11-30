@@ -1,0 +1,10 @@
+a2d0f87561c1f3373aa89ac26cecc15b  debian/bin/gencontrol.py
+6492e2fbb26a03a43b285294cf9ffbea  debian/build/version-info
+163816c9a25236f4cd7a9a37af4df272  debian/templates/control.binary.udeb.in
+490335fe63b087276e7613c53eca7b2b  debian/templates/metainfo.xml.in
+034e684f47e3b1601b94f722b4aead3a  debian/templates/control.binary.in
+ef0e9b606801436d1b2692fdc1655b67  debian/templates/control.source.in
+d8ec26344473f36fc003658b597cc8b2  debian/templates/metainfo.xml.firmware.in
+1dc2bec8222eb519362c444a4afd1d69  debian/templates/postinst.initramfs-tools.in
+5813dbd3e3b79d998f26e355c4ed2db0  debian/config/defines
+ad43b04e5c170c8f0245180cb9c6ae60  debian/config/linux-free/defines
